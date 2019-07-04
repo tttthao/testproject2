@@ -1,0 +1,14 @@
+2019-07-04 14:24:50 INFO  Log:27 - Directory: C:\Users\ait1hc\WORKING\SELENIUM PROJECTS\test\configs is created!
+2019-07-04 14:26:11 INFO  Log:27 - [defaultBrowserType] value in [project.properties] is not set up! Firefox will be started as default.
+2019-07-04 14:26:11 INFO  Log:27 - [report.extent.folder] is not set up or not have value!! Default report path will be used.
+2019-07-04 14:26:11 INFO  Log:27 - Directory: C:\Users\ait1hc\WORKING\SELENIUM PROJECTS\test\reports is created!
+2019-07-04 14:26:11 INFO  Log:27 - ExtentReport Path: C:\Users\ait1hc\WORKING\SELENIUM PROJECTS\test\reports
+
+2019-07-04 14:26:11 INFO  Log:19 - [testfw.testscript.testcasea] is Starting...
+2019-07-04 14:26:11 INFO  Log:27 - [startWithProfile] is Inactive for running profile. Project will run in [Private Mode]!!
+2019-07-04 14:30:12 INFO  Log:27 - [defaultBrowserType] value in [project.properties] is not set up! Firefox will be started as default.
+2019-07-04 14:30:12 INFO  Log:27 - [report.extent.folder] is not set up or not have value!! Default report path will be used.
+2019-07-04 14:30:13 INFO  Log:27 - ExtentReport Path: C:\Users\ait1hc\WORKING\SELENIUM PROJECTS\test\reports
+
+2019-07-04 14:30:13 INFO  Log:19 - [testfw.testscript.testcasea] is Starting...
+2019-07-04 14:30:13 INFO  Log:27 - [startWithProfile] is Inactive for running profile. Project will run in [Private Mode]!!

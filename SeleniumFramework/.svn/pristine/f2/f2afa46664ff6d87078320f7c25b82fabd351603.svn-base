@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Debug Suite">
+	<test name="Debug Test" thread-count="2" parallel="classes">
+		<parameter name="browser" value="ie" />
+
+		<classes>
+			<class name="com.bosch.debug.DebugTest" />
+			<class name="com.bosch.debug.DebugTest02" />
+		</classes>
+	</test>
+</suite> 

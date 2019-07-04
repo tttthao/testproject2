@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 17.275 s <<< FAILURE! - in TestSuite
+debugTest(com.bosch.debug.DebugTest)  Time elapsed: 2.865 s  <<< FAILURE!
+java.lang.AssertionError: Fail to click on element!
+	at com.bosch.debug.DebugTest.debugTest(DebugTest.java:18)
+Caused by: java.lang.NullPointerException
+	at com.bosch.debug.DebugTest.debugTest(DebugTest.java:18)
+
+debugTest03(com.bosch.debug.DebugTest02)  Time elapsed: 2.1 s  <<< FAILURE!
+java.lang.AssertionError: Fail to click on element!
+	at com.bosch.debug.DebugTest02.debugTest03(DebugTest02.java:28)
+Caused by: java.lang.NullPointerException
+	at com.bosch.debug.DebugTest02.debugTest03(DebugTest02.java:28)
+

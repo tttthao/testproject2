@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Debug Suite]">
+  <test thread-count="5" verbose="0" name="Debug Test(failed)" parallel="classes">
+    <classes>
+      <class name="com.bosch.debug.DebugTest02">
+        <methods>
+          <include name="debugTest03"/>
+        </methods>
+      </class> <!-- com.bosch.debug.DebugTest02 -->
+      <class name="com.bosch.debug.DebugTest">
+        <methods>
+          <include name="debugTest"/>
+        </methods>
+      </class> <!-- com.bosch.debug.DebugTest -->
+    </classes>
+  </test> <!-- Debug Test(failed) -->
+</suite> <!-- Failed suite [Debug Suite] -->
