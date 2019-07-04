@@ -18,7 +18,7 @@
 			<artifactId>framework.selenium</artifactId>
 			<version>1.0.0</version>
 			<scope>system</scope>
-			<systemPath>C:/Users/ait1hc/WORKING/SELENIUM PROJECTS/SeleniumFramework/framework.selenium.jar</systemPath>
+			<systemPath>C:/Users/ait1hc/WORKING/SELENIUM PROJECTS/Testproject2/SeleniumFramework/framework.selenium.jar</systemPath>
 		</dependency>
 
 	</dependencies> 

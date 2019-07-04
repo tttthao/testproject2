@@ -8,6 +8,5 @@ public class GooglePage extends WebActions{
 	
 	public void openGoogle() {
 		navigateToURL("https://google.com");
-		find
 	}
 }
