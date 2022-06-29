@@ -18,7 +18,7 @@
 		<extentreport.version>4.0.9</extentreport.version>
 		<mvnsurefile.version>2.22.1</mvnsurefile.version>
 		<selenium.version>3.141.59</selenium.version>
-		<poi.version>4.0.1</poi.version>
+		<poi.version>4.1.1</poi.version>
 		<appium.version>7.0.0</appium.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<!--<main.basedir>${project.basedir}/../</main.basedir> -->
